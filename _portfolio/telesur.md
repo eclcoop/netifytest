@@ -1,6 +1,6 @@
 ---
 image_path: /img/portfolio/5.jpg
 category: Tv
-title: Telesur
+}title: Telesur
 link: http://telesur.com
 ---
