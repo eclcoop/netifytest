@@ -1,3 +1,17 @@
 collections:
   portfolio:
+    output: true
   services:
+defaults:
+  -
+    portfolio:
+      path: ""
+      type: "portfolio"
+    values:
+      image_path: /img/
+      category: 
+      project_name: 
+      link: http://
+
+plugins:
+ - jekyll-admin
