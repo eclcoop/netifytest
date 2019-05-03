@@ -1,6 +1,6 @@
 ---
 image_path: /img/portfolio/2.jpg
 category: Web Design
-project_name: Apple
+title: Apple
 link: http://apple.com
 ---

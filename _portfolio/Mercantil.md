@@ -1,6 +1,6 @@
 ---
 image_path: /img/portfolio/6.jpg
 category: Banking
-project_name: Mercantil
+title: Mercantil
 link: http://mercantilbanco.com
 ---

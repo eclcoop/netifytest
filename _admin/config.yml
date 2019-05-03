@@ -1,0 +1,18 @@
+# config.yml
+backend:
+  name: github
+  repo: eclcoop/jekyllTest
+publish_mode: editorial_workflow
+media_folder: 'img/portfolio'
+collections:
+ - name: "portfolio"
+   label: "portfolio"
+   folder: "_portfolio"
+   create: true
+   editor:
+    preview: false
+   fields:
+    - {label: "Image", name: "image_path", widget: "image", default: ""}
+    - {label: "Category", name: "category", widget: "string", default: "Design"}
+    - {label: "Project", name: "title", widget: "string", default: "MyProject"}
+    - {label: "Website", name: "link", widget: "string", default: "url"}
